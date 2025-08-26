@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: all;
+};
+
+body {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
