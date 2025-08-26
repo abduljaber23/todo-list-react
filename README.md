@@ -1,4 +1,3 @@
-Consulter le site [ici](https://your-site-url.com).
 
 # Les étapes
 
