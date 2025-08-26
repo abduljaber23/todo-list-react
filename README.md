@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 consulter le site [ici] https://abduljaber.fr
-=======
->>>>>>> 572ce097fb4723d53b3f71dbdee1d57af15f21de
 
 # Les étapes
 
